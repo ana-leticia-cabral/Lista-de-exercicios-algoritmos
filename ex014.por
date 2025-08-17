@@ -8,7 +8,7 @@ programa
 	funcao inicio()
 	{
 		real km_percorridos
-		real dias_alugados
+		inteiro dias_alugados
 		real valor_km_rodado
 		inteiro diaria
 		real pagamento
