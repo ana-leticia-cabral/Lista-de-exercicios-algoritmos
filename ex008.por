@@ -1,3 +1,5 @@
+// Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.
+
 programa
 {
 	
